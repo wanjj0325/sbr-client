@@ -6,7 +6,7 @@ const StudentView = () => {
       <table>
         <thead>
             <tr>
-                <th></th>
+                <th>jhghj</th>
                 <th></th>
                 <th></th>
                 <th></th>
